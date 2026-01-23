@@ -1,6 +1,6 @@
 pyrogram==2.0.106
-tgcrypto==1.2.1
-pymongo==4.4.0
-motor==3.1.1
-python-dotenv
+tgcrypto
+pymongo
+motor
 requests
+python-dotenv
