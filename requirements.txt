@@ -21,4 +21,5 @@ gTTS
 wikipedia
 pillow
 pyshorteners
+ytthumb
 
