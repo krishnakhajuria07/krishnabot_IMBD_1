@@ -8,7 +8,7 @@ requests
 python-dotenv
 imdbpy
 beautifulsoup4
-googletrans==4.0.0-rc1
+googletrans==4.0.0rc1
 aiofiles
 aiohttp
 wget
@@ -20,4 +20,5 @@ telegraph
 gTTS
 wikipedia
 pillow
+pyshorteners
 
