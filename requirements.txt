@@ -17,3 +17,7 @@ yt-dlp
 youtube_dl
 youtube-search
 telegraph
+gTTS
+wikipedia
+pillow
+
