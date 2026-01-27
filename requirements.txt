@@ -3,5 +3,6 @@ tgcrypto
 pymongo
 motor
 umongo==3.0.1
+marshmallow==2.21.0
 requests
 python-dotenv
