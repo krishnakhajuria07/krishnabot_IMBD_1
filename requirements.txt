@@ -13,3 +13,4 @@ aiofiles
 aiohttp
 wget
 youtube-search-python
+yt-dlp
