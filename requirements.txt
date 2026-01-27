@@ -9,3 +9,4 @@ python-dotenv
 imdbpy
 beautifulsoup4
 googletrans==4.0.0-rc1
+aiofiles
