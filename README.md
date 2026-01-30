@@ -2,7 +2,7 @@
 
 ## Features
 
-- [x] Auto Filter
+- [x] Movie Filter
 - [x] Manuel Filter
 - [x] IMDB
 - [x] Admin Commands
@@ -99,7 +99,7 @@ python3 bot.py
 * /disconnect - disconnect from PM
 * /del - delete a filter
 * /delall - delete all filters
-* /deleteall - delete all index(autofilter)
+* /deleteall - delete all indexed files)
 * /delete - delete a specific file from index.
 * /batch - to create link for multiple posts
 * /link - to create link for one post
@@ -128,7 +128,6 @@ python3 bot.py
 ## Thanks to 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
  - Thanks To All Everyone In This Journey
 
 ## Disclaimer
