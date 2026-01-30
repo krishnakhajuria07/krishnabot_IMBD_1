@@ -108,7 +108,6 @@ async def start(client, message):
             caption=Script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             quote=True,
-            parse_mode='html'
         )
         return
     data = message.command[1]
@@ -489,7 +488,6 @@ async def settings(client, message):
             text=f"<b>Change Your Settings for {title} As Your Wish ⚙</b>",
             reply_markup=reply_markup,
             disable_web_page_preview=True,
-            parse_mode="html",
             reply_to_message_id=message.message_id
         )
 
